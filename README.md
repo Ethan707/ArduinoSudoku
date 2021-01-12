@@ -1,2 +1,2 @@
 # ArduinoSudoku
-The Sudoku game on the Arduino 
+The Sudoku game on Arduino 

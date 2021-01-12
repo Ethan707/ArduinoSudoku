@@ -1,2 +1,2 @@
 # ArduinoSudoku
-CMPUT 275 Project
+The Sudoku game on the Arduino 
